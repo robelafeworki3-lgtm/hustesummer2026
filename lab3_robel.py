@@ -65,3 +65,4 @@ print(profile)
 # ticket 10
 print(f"@{profile['username']} has {profile['followers']} followers. Bio: {profile['bio']}")
 # @rofiaf has 150 followers. Bio: life is a journey.
+# list, dictionary , nested dictionary
