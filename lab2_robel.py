@@ -16,4 +16,4 @@ print(f"Hobbies: {hobbies}")
 print(f"Favorites: {favorites}")
 
 skills = "best soccer player in the world"
-language = "chinese
+language = "chinese"                  
